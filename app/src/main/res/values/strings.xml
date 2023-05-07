@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Esküvői helyszín foglaló</string>
+
+    <string name="email_text">E-mail cím</string>
+    <string name="password_text">Jelszó</string>
+    <string name="login_text">Bejelentkezés</string>
+    <string name="guestlogin_text">Folytatás vendégként</string>
+
+    <string name="password_again_text">Jelszó újra</string>
+    <string name="register_text">Regisztráció</string>
+    <string name="back_text">Vissza</string>
+
+    <string name="reservation_text">Helyszín lefoglalása</string>
+    <string name="take_picture_text">Fénykép készítése</string>
+    <string name="delete_wedding_text">Helyszín törlése</string>
+    <string name="anonymus_text">A foglaláshoz jelentkezz be!</string>
+
+    <string-array name="wedding_names">
+        <item>Achilles Park</item>
+        <item>Bellevue Hotel</item>
+        <item>Echo Residence</item>
+        <item>Fenyőharaszt Kastélyszálló</item>
+        <item>Gastland M0</item>
+        <item>Hotel Eger és Park</item>
+        <item>Hotel Marina Port</item>
+        <item>Hunguest Hotel Pelion</item>
+        <item>Kristinus Borbirtok</item>
+        <item>Promenade Vendéglő</item>
+    </string-array>
+
+    <string-array name="wedding_locations">
+        <item>Győr, Achilles Park, 9012</item>
+        <item>Esztergom, Őrtorony u. 49, 2500</item>
+        <item>Tihany, Felsőkopaszhegyi út 35, 8237</item>
+        <item>Verseg, Fenyőharaszt, 2174</item>
+        <item>Szigetszentmiklós M0-ás autópálya 19. km, 2310</item>
+        <item>Eger, Szálloda u. 3, 3300</item>
+        <item>Balatonkenese, Kikötő u. 2–4, 8174</item>
+        <item>Tapolca, Köztársaság tér 10, 8300</item>
+        <item>Kéthely, Hunyadi u. 99, 8713</item>
+        <item>Szentendre, Futó u. 4, 2000</item>
+    </string-array>
+
+    <array name="wedding_covers">
+        <item>@drawable/achilles_park</item>
+        <item>@drawable/bellevue_hotel</item>
+        <item>@drawable/echo_residence</item>
+        <item>@drawable/fenyoharaszt_kastelyszallo</item>
+        <item>@drawable/gastland_m0</item>
+        <item>@drawable/hotel_eger_es_park</item>
+        <item>@drawable/hotel_marina_port</item>
+        <item>@drawable/hunguest_hotel_pelion</item>
+        <item>@drawable/kristinus_borbirtok</item>
+        <item>@drawable/promenade_vendeglo</item>
+    </array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564652974815",
+    "project_id": "weddingapp-2ld9l",
+    "storage_bucket": "weddingapp-2ld9l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564652974815:android:0323db4b60d563c5e7ff6a",
+        "android_client_info": {
+          "package_name": "hu.mobilalkfejl.weddingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564652974815-ujquadtddc7lum47sjs58ar00v2k8u4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.mobilalkfejl.weddingapp",
+            "certificate_hash": "7a361cbfd4cd4af526b3c69a5a117ce15e1b6e00"
+          }
+        },
+        {
+          "client_id": "564652974815-d1qbp3easq4rmmn78vbcgnt7l7o455lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoo8pt1AuQ7ccVVspW-NjfNA4zdm6lQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564652974815-d1qbp3easq4rmmn78vbcgnt7l7o455lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
